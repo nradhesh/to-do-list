@@ -30,9 +30,11 @@ This is a basic to-do list project where you can add, check, and remove tasks to
 
 - `index.js`: The JavaScript file that contains the functionality for adding, checking, and removing tasks, as well as saving and displaying tasks using local storage.
 
-## Screenshots
+## Screenshots![Uploading Screenshot (11).png…]()
 
-[Add screenshots of your project here]
+
+
+
 
 ## Technologies Used
 
